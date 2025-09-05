@@ -7,6 +7,9 @@
 
 🚀 Video-level deepfake detection using **ResNet-18** with **face-crop aggregation** and **Grad-CAM explainability**.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohitha10-debug/deepfake-detection/blob/main/demo_notebook.ipynb)
+
+
 
 This project implements a **video-level deepfake detector** using:
 - 🎥 Frame extraction  

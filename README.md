@@ -1,5 +1,13 @@
 # 🔍 Deepfake Detection (ResNet-18 + Grad-CAM)
 
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-ee4c2c.svg)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-vision-green.svg)](https://opencv.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohitha10-debug/deepfake-detection/blob/main/demo_notebook.ipynb)
+
+🚀 Video-level deepfake detection using **ResNet-18** with **face-crop aggregation** and **Grad-CAM explainability**.
+# 🔍 Deepfake Detection (ResNet-18 + Grad-CAM)
+
 This project implements a **video-level deepfake detector** using:
 - 🎥 Frame extraction  
 - 🧑‍🎨 Face-cropping (MTCNN)  

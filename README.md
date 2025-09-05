@@ -135,6 +135,6 @@ pip install -r requirements.txt
 
 ## 👩‍💻 Author
 
-**Rohitha Panchamukhi**  
+**Rohitha Panchamukhi M**  
 💼 Aspiring AI & Cybersecurity Engineer  
 🌟 Focused on building **trustworthy AI for security**

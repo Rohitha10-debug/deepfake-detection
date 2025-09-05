@@ -32,3 +32,13 @@ deepfake-detection/
  │    ├── video_predictions_demo.csv
  │    └── gradcam_montages/
 ```
+## 📥 Download Pretrained Model
+
+The trained ResNet-18 model weights are hosted on Google Drive. To download:
+
+```bash
+pip install gdown
+mkdir -p models
+gdown --id 1EJhCqkidKCELQZN_zuIkQCMEaiWylq_3 -O models/best_resnet18_aug_balanced.pth
+
+

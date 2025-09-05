@@ -1,0 +1,9 @@
+torch
+torchvision
+facenet-pytorch
+opencv-python-headless
+tqdm
+scikit-learn
+gradio
+pandas
+matplotlib
